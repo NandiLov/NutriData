@@ -18,6 +18,10 @@ header {
     background-size: cover;
     color: #1e7281;
 }
+.header img {
+    max-width: 100%;
+    border-radius: 5px;
+}
 
 
 h1 {
@@ -124,12 +128,6 @@ nav a {
 .about img {
     max-width: 100%;
     border-radius: 5px;
-    display: inline-block;
-    width: 30%;
-    margin: 0 2%;
-    padding: 20px;
-    background-color: #f9f9f9;
-
 }
 
 
