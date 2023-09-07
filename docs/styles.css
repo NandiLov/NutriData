@@ -160,5 +160,13 @@ nav a {
         width: 100%;
         margin: 0;
     }
+    .header img {
+        width: 150%;
+        margin: 0;
+    }
+    .about img {
+        width: 100%;
+        margin: 0;
+    }
 
 }
