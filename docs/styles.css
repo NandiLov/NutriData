@@ -121,6 +121,10 @@ nav a {
     color: #0077b6;
     font-weight: bold;
 }
+.about img {
+    max-width: 100%;
+    border-radius: 5px;
+}
 
 /* Style the GitHub button */
 .btn.github {
@@ -148,6 +152,14 @@ nav a {
 /* Add media query for responsiveness */
 @media (max-width: 768px) {
     .feature {
+        width: 100%;
+        margin: 0;
+    }
+    .about {
+        width: 100%;
+        margin: 0;
+    }
+    .header {
         width: 100%;
         margin: 0;
     }
