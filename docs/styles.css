@@ -10,6 +10,25 @@ body {
     background-color: #f4f4f4;
 }
 
+
+    <style>
+        /* Make the hero container responsive */
+        .hero {
+            position: relative;
+            width: 100%;
+            max-width: 100%;
+            height: auto;
+            overflow: hidden;
+        }
+
+        /* Make the hero image/video responsive */
+        .hero img,
+        .video {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+
 /* Style the header section */
 header {
     text-align: center;
@@ -158,18 +177,4 @@ nav a {
         width: 100%;
         margin: 0;
     }
-    .header {
-        width: 50%;
-        margin: 0;
-    }
-    .about {
-        width: 100%;
-        margin: 0;
-    }
-    }
-    .video {
-        width: 100%;
-        margin: 0;
-    }
-
 }
