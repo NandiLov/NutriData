@@ -1,5 +1,5 @@
 # NutriData API Landing Page
-![NutriDataAPI Logo](https://github.com/NandiLov/NutriData/blob/main/docs/logo.png)
+[![NutriDataAPI Logo](https://github.com/NandiLov/NutriData/blob/main/docs/logo.png)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/NandiLov/NutriDataAPI.svg)](https://github.com/yourusername/NutriDataAPI/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/NandiLov/NutriDataAPI.svg)](https://github.com/yourusername/NutriDataAPI/network/members)
