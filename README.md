@@ -5,7 +5,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/NandiLov/NutriDataAPI.svg)](https://github.com/yourusername/NutriDataAPI/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/NandiLov/NutriDataAPI.svg)](https://github.com/yourusername/NutriDataAPI/issues)
 
-Welcome to the landing page of the NutriData API.
+## Welcome to NutriData API.
 Visit our site:
 - [NutriData](https://nandilov.github.io/NutriData/)
 
